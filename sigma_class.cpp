@@ -27,16 +27,7 @@ class employee{
     }
 
 
-    void Display(){
-        cout << "name:" << endl;
-        
-        cout << "age:" << endl;
-        
-        cout << "company:" << endl;
-        
-
-    }
-
+   
 };
 
 int main(){
